@@ -1,6 +1,5 @@
 package com.example.account.controller;
 
-import com.example.account.controller.AccountController;
 import com.example.account.model.Account;
 import com.example.account.model.dto.AccountRequest;
 import com.example.account.service.AccountService;
